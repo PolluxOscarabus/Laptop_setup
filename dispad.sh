@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 ##################################################
 #
 # Script disabling laptop touchpad
